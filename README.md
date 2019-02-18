@@ -1,2 +1,5 @@
-# convolution_visualization
-simple demo to visualize the details one of the basic foundations of deep learning: convolution
+# Interactive Convolution Visualization
+
+TBD
+
+![image](https://github.com/tinymilky/convolution_visualization/blob/master/materials/conv.gif)
