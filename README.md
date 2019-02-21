@@ -15,6 +15,10 @@ The following is the demo:
 
 ![image](https://github.com/tinymilky/convolution_visualization/blob/master/materials/conv.gif)
 
+unlike this one without any digits:
+
+![image](https://github.com/tinymilky/convolution_visualization/blob/master/materials/conv2.gif)
+
 ## Ingredients
 
 * HTML
