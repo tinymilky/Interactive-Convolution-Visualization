@@ -11,7 +11,7 @@ This is a Javascript implementations for ineractive convolutional visualization,
 * Details in every single step of convolution and its visualization;
 * Extendable to reveal more advanced convolution concepts.
 
-The following is the [demo]((https://tinymilky.github.io/demos/conv/index.html)):
+The following is the [demo](https://tinymilky.github.io/demos/conv/index.html):
 
 ![image](https://github.com/tinymilky/convolution_visualization/blob/master/materials/conv.gif)
 
